@@ -9,7 +9,7 @@ p {
 }
 
 .TextWrap {
-  float: left;
+  float: none;
   margin: 15px;
 }
 
